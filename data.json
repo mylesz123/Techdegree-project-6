@@ -1,0 +1,44 @@
+
+{
+"projects":[
+
+    {
+    "id": 0,
+    "project_name": "Keyboard Drumset",
+    "description":"The key letters displayed on the screen are matched with the keyboard, associated with a sound. Upon click, the sound is fired and heard.",
+    "technologies":["Javascript"],
+    "live_link":"https://mylesz123.github.io/JavaScript-Drum-Kit/",
+    "github_link":"https://github.com/mylesz123/01---JavaScript-Drum-Kit.git",
+    "image_url":["/Screenshot (23).png"]
+},
+{
+    "id": 1,
+    "project_name": "Random Quote Generator",
+    "description":"Upon click, this random quote generator displays a new quote every few seconds, accompanied by a change in color screen and mood.",
+    "technologies":["Javascript","jQuery"],
+    "live_link":"https://mylesz123.github.io/Techdegree-project--1/",
+    "github_link":"https://github.com/mylesz123/Techdegree-project--1.git",
+    "image_url":["/Screenshot (24).png"]
+},
+{
+    "id": 4,
+    "project_name": "Guessing Game Show",
+    "description":"Welcome to the Game Show App! This project was created by using object oriented programming. Javascript classes are created to add phrases to the game board and handle user interactions, dynamically creating object, game logic, etc to bring a challenging guessing game to life.",
+    "technologies":["Javascript","HTML","CSS"],
+    "live_link":"https://mylesz123.github.io/Techdegree-project-4/",
+    "github_link":"https://github.com/mylesz123/Techdegree-project-4.git",
+    "image_url":["/Screenshot (20).png"]
+},
+{
+    "id": 5,
+    "project_name": "Dynamic Employee Directory",
+    "description":"Using a random person generator api, 12 users are appended to a page dynamically. When an employee card is clicked, a large window appears with more details of the person.",
+    "technologies":["Javascript","HTML","CSS"],
+    "live_link":"https://mylesz123.github.io/Techdegree-project-5/",
+    "github_link":"https://github.com/mylesz123/Techdegree-project-5.git",
+    "image_url":["/Screenshot (21).png"]
+}
+
+]
+
+}
