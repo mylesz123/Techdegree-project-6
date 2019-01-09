@@ -9,7 +9,7 @@
     "technologies":["Javascript"],
     "live_link":"https://mylesz123.github.io/JavaScript-Drum-Kit/",
     "github_link":"https://github.com/mylesz123/01---JavaScript-Drum-Kit.git",
-    "image_url":["/Screenshot (23).png"]
+    "image_url":["/static/images/drum.png"]
 },
 {
     "id": 1,
@@ -18,7 +18,7 @@
     "technologies":["Javascript","jQuery"],
     "live_link":"https://mylesz123.github.io/Techdegree-project--1/",
     "github_link":"https://github.com/mylesz123/Techdegree-project--1.git",
-    "image_url":["/Screenshot (24).png"]
+    "image_url":["/static/images/p1.png"]
 },
 {
     "id": 4,
@@ -27,7 +27,7 @@
     "technologies":["Javascript","HTML","CSS"],
     "live_link":"https://mylesz123.github.io/Techdegree-project-4/",
     "github_link":"https://github.com/mylesz123/Techdegree-project-4.git",
-    "image_url":["/Screenshot (20).png"]
+    "image_url":["/static/images/p4.png"]
 },
 {
     "id": 5,
@@ -36,7 +36,7 @@
     "technologies":["Javascript","HTML","CSS"],
     "live_link":"https://mylesz123.github.io/Techdegree-project-5/",
     "github_link":"https://github.com/mylesz123/Techdegree-project-5.git",
-    "image_url":["/Screenshot (21).png"]
+    "image_url":["/static/images/p5.png"]
 }
 
 ]
