@@ -18,6 +18,7 @@ block content
       //- Use a combination of interpolation and template literals as needed to dynamically generate the the routes in the href, as well as the img's src and the projects title.
 
       //- Here's what the Pug for each project example should look like.
+      //- iterating through each index in data.projects file and updating properties with interpolation
       each val, index in data.projects
         .cell
           a(href=`/project/${val.id}`)

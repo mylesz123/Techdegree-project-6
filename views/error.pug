@@ -1,10 +1,9 @@
 extends layout.pug
 
 block content
- h1 Please Enter a Valid Route
+ h1 Oops, something went wrong
     article.grid-container
         .grid-x
 
-            h1= error.message
-            h1= error.status
+            h1= `${error.message}: ${error.status}`
             p= error.stack
