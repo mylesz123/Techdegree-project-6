@@ -22,12 +22,9 @@ app.get('/about', (req, res) => {
 	res.render('about')//about.pug
 })
 
-app.get('/:id', (req, res) => {
-  res.render('project', {//project.pug
-		//something is going wrong here
-		data,
-		id: req.params.id //request id
-	})
+app.get('/project/:id', (req, res) => {//project.pug
+  res.render('project', {data, id: req.params.id })//request id
+	//something is going wrong here
 });
 
 /********************/

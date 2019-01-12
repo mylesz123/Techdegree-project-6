@@ -19,7 +19,7 @@
     "image_url":["/static/images/p1.png"]
 },
 {
-    "id": 4,
+    "id": 2,
     "project_name": "Guessing Game Show",
     "description":"Welcome to the Game Show App! This project was created by using object oriented programming. Javascript classes are created to add phrases to the game board and handle user interactions, dynamically creating object, game logic, etc to bring a challenging guessing game to life.",
     "technologies":["Javascript","HTML","CSS"],
@@ -28,7 +28,7 @@
     "image_url":["/static/images/p4.png"]
 },
 {
-    "id": 5,
+    "id": 3,
     "project_name": "Dynamic Employee Directory",
     "description":"Using a random person generator api, 12 users are appended to a page dynamically. When an employee card is clicked, a large window appears with more details of the person.",
     "technologies":["Javascript","HTML","CSS"],
